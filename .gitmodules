@@ -1,0 +1,3 @@
+[submodule "burstcoin"]
+	path = burstcoin
+	url = https://github.com/BurstProject/burstcoin
